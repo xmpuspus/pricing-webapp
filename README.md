@@ -11,11 +11,11 @@ You can get the [data](https://www.kaggle.com/shreedevi/insurance-data) here.
  
 ### Model
 
-I only used a low-order machine learning technique for demo purposes. The web app's backend can work for more complex models
+I only used a low-order machine learning technique for demo purposes. The web app's backend can work for more complex models.
 
 ### Deployment Through Web Application
 
-I used the most recently released API of of [Streamlit](https://streamlit.io) to deploy the ml model and locally serve the web app.
+I used the most recently released API of [Streamlit](https://streamlit.io) to deploy the ml model and locally serve the web app.
 
 ### Running the App
 
