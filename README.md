@@ -30,7 +30,7 @@ Afterwards, `cd` into the directory of `app.py` and run this on the terminal:
 foo@bar:~$ streamlit run app.py
 ```
 
-# Display
+### Display
 
 The web app should look something like this:
 
