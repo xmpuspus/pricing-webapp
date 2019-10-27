@@ -29,3 +29,9 @@ Afterwards, `cd` into the directory of `app.py` and run this on the terminal:
 ```console
 foo@bar:~$ streamlit run app.py
 ```
+
+# Display
+
+The web app should look something like this:
+
+![Sample image of the insurance pricing model web application.](pricing_webapp_image.png)
